@@ -50,7 +50,7 @@ class EditWindow(QMainWindow):
         if name and surname and email:
             self.user_manager.update_user_info(self.username, name, surname, email)
             self.data_updated.emit()
-            QMessageBox.information(self, "Успех", "Данные пользователя успешно обновлены.")
+            QMessageBox.information(self, "Сообщение", "Данные пользователя успешно обновлены.")
             self.close()
         else:
             QMessageBox.warning(self, "Ошибка", "Все поля должны быть заполнены.")

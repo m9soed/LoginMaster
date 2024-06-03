@@ -38,7 +38,7 @@ class MainWindow(QMainWindow):
 
         menubar = self.menuBar()
 
-        file_menu = menubar.addMenu("Файл")
+        file_menu = menubar.addMenu("Меню")
 
         logout_action = QAction("Сменить пользователя", self)
         logout_action.triggered.connect(self.logout)

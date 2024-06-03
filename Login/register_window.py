@@ -68,7 +68,7 @@ class RegisterWindow(QMainWindow):
             return
 
         if self.user_manager.add_user(login, password, name, surname, email):
-            QMessageBox.information(self, "Успех", "Пользователь успешно зарегистрирован.")
+            QMessageBox.information(self, "Сообщение", "Пользователь успешно зарегистрирован.")
             self.close()
         else:
             QMessageBox.warning(self, "Ошибка", "Пользователь с таким логином уже существует.")
