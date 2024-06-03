@@ -1,1 +1,38 @@
-{"ars1": {"password": "Globus76", "name": "\u0410\u0440\u0441\u0435\u043d\u0438\u0439q", "surname": "\u041f\u043e\u0441\u0442\u043d\u0438\u043a\u043e\u0432", "email": "arspostnikov@gmail.com"}, "Boris": {"password": "Qwerty123", "name": "\u0411\u043e\u0440\u0438\u0441", "surname": "\u0421\u0435\u0440\u0433\u0435\u0435\u0432", "email": "boris_sergeev@fake.u"}, "ars": {"password": "Qwerty123", "name": "\u041f\u043e\u0441\u0442\u043d\u0438\u043a\u043e\u0432", "surname": "\u0410\u0440\u0441\u0435\u043d", "email": "ars"}, "asd": {"password": "Qwerty123", "name": "asd", "surname": "asdasd", "email": "asd"}, "123": {"password": "Qwerty123", "name": "1234", "surname": "123", "email": "123"}, "Boris1": {"password": "Globus76", "name": "Bro", "surname": "Brovov", "email": "arspostnikov@gmail.com"}}
+{
+    "ars1": {
+        "password": "Globus76",
+        "name": "\u0410\u0440\u0441\u0435\u043d\u0438\u0439q",
+        "surname": "\u041f\u043e\u0441\u0442\u043d\u0438\u043a\u043e\u0432",
+        "email": "arspostnikov@gmail.com"
+    },
+    "Boris": {
+        "password": "Qwerty123",
+        "name": "\u0411\u043e\u0440\u04381",
+        "surname": "\u0421\u0435\u0440\u0433\u0435\u0435\u0432",
+        "email": "boris_sergeev@fake.u"
+    },
+    "ars": {
+        "password": "Qwerty123",
+        "name": "\u041f\u043e\u0441\u0442\u043d\u0438\u043a\u043e\u0432",
+        "surname": "\u0410\u0440\u0441\u0435\u043d",
+        "email": "ars"
+    },
+    "asd": {
+        "password": "Qwerty123",
+        "name": "asd",
+        "surname": "asdasd",
+        "email": "asd"
+    },
+    "123": {
+        "password": "Qwerty123",
+        "name": "1234",
+        "surname": "123",
+        "email": "123"
+    },
+    "Boris1": {
+        "password": "Globus76",
+        "name": "Bro",
+        "surname": "Brovov",
+        "email": "arspostnikov@gmail.com"
+    }
+}
